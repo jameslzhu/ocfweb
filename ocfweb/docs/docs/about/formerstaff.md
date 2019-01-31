@@ -119,10 +119,10 @@ gained as OCF staff:
 * ASUConline
 * [CalLUG - the UCB Linux User's Group](https://www.ocf.berkeley.edu/~linux/)
 * [Computer Science Undergrad Assoc.](http://www.csua.berkeley.edu/)
-* [Eta Kappa Nu](http://www-hkn.eecs.berkeley.edu/) (EECS Honor Society)
-* [Experimental Computing Facility](https://callink.berkeley.edu/organization/xcf)
+* [Eta Kappa Nu](http://hkn.eecs.berkeley.edu/) (EECS Honor Society)
+* [Experimental Computing Facility](https://xcf.berkeley.edu/)
 * Students Improving Campus Online Services
-* [U. C. Society of Electrical Engineers](https://ieee.berkeley.edu) (IEEE Student Chapter)
+* [Institute of Electrical and Electronic Engineers](https://ieee.berkeley.edu) (UC Berkeley student branch)
 * [Upsilon Pi Epsilon](http://upe.berkeley.edu/) (CS Honor Society)
 
 ### Elsewhere
